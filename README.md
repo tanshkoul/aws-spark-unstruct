@@ -1,1 +1,2 @@
-# aws-spark-unstruct
+# weaver
+### weaving unstructured data into a structured format.
